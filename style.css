@@ -1,0 +1,11 @@
+/*style.css*/
+body,h3,button,form{margin:0px;padding:0px;}  
+div{background:#ddd;width:170px;padding:10px;}
+.username,.password{display:block;width:167px;height:25px;}
+.password{margin-top:10px;}
+.checkbox{display:inline;}
+.check{font-size:8px;}
+.fotget{font-size:8px;margin-left:20px;}
+button{width:167px;height:33px;background:url("./css-sprite-img.jpg");}
+.gloin{margin-top:5px;background-position:0 0px;}
+.sunmint{background-position:0 -40px;}
